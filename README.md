@@ -4,7 +4,7 @@
 ![Dart](https://img.shields.io/badge/Dart-3.1.2-blue?logo=dart)
 
 
-Flutter Mini Social Media App, kullanıcıların metin tabanlı gönderiler paylaşabildiği, beğeni ve yorum yapabildiği, profil yönetimi gerçekleştirebildiği basit bir sosyal medya uygulamasıdır.
+Flutter Mini Social Media App, kullanıcıların metin tabanlı gönderiler paylaşabildiği, profil yönetimi ve gösterimi gerçekleştirebildiği basit bir sosyal medya uygulamasıdır.
 
 ## 📸 Uygulama Görselleri
 
