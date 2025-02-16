@@ -12,7 +12,7 @@ Flutter Mini Social Media App, kullanıcıların metin tabanlı gönderiler payl
 ![Home](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/homepage.png?raw=true)
 
 ### 👤 Profil Sayfası
-![Profile]([screenshots/profile.png](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/profilepage.png?raw=true))
+![Profile](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/profilepage.png?raw=true)
 
 ### 🔎 Kullanıcılar Sayfası
 ![Users](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/userspage.png?raw=true)
