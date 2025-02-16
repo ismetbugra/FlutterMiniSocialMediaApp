@@ -8,23 +8,18 @@ Flutter Mini Social Media App, kullanıcıların metin tabanlı gönderiler payl
 
 ## 📸 Uygulama Görselleri
 
-### 🏠 Ana Sayfa
-![Home](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/homepage.png?raw=true)
+| 🏠 Ana Sayfa | 👤 Profil Sayfası |
+|-------------|-----------------|
+| ![Home](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/homepage.png?raw=true) | ![Profile](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/profilepage.png?raw=true) |
 
-### 👤 Profil Sayfası
-![Profile](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/profilepage.png?raw=true)
+| 🔎 Kullanıcılar Sayfası | 🔑 Giriş (Login) Ekranı |
+|-----------------|------------------|
+| ![Users](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/userspage.png?raw=true) | ![Login](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/loginpage.png?raw=true) |
 
-### 🔎 Kullanıcılar Sayfası
-![Users](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/userspage.png?raw=true)
+| 📝 Kayıt (Register) Ekranı | 📂 Navigation Drawer |
+|-----------------|------------------|
+| ![Register](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/registerpage.png?raw=true) | ![Drawer](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/drawerpage.png?raw=true) |
 
-### 🔑 Giriş (Login) Ekranı
-![Login](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/loginpage.png?raw=true)
-
-### 📝 Kayıt (Register) Ekranı
-![Register](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/registerpage.png?raw=true)
-
-### 📂 Navigation Drawer
-![Drawer](https://github.com/ismetbugra/FlutterMiniSocialMediaApp/blob/main/appscrenshots/drawerpage.png?raw=true)
 
 ## 🚀 Özellikler
 - 🔹 **Kullanıcı Kaydı & Girişi** (Firebase Authentication ile)
